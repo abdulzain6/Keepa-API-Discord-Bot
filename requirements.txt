@@ -1,0 +1,4 @@
+discord
+matplotlib
+keepa
+requests
